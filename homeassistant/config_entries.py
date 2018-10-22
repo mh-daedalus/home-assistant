@@ -143,6 +143,7 @@ FLOWS = [
     'ifttt',
     'ios',
     'lifx',
+    'luftdaten',
     'mqtt',
     'nest',
     'openuv',
